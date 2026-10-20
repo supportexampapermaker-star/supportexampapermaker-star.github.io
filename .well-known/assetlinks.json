@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.subhamindoria.cyberblade",
+      "sha256_cert_fingerprints": [
+        "00:D0:BF:01:69:DB:4F:7C:4C:DE:EC:85:61:D2:22:0E:3B:B4:B3:0F:02:EE:A5:B9:FE:47:E6:B3:20:54:7E:BD",
+        "E9:4E:BE:3C:47:AC:06:1B:14:23:4A:EB:E8:1C:AB:A1:16:C0:F7:EB:DE:27:B1:70:A8:1A:79:A8:21:F1:92:83",
+        "35:1F:DB:A2:E1:AD:DB:C5:3F:B7:E3:F3:BF:0B:6C:C3:1F:5B:0E:24:FF:26:1E:9C:29:B5:95:B2:62:5D:5F:5C"
+      ]
+    }
+  }
+]
